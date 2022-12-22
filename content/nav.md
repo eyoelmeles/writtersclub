@@ -1,9 +1,7 @@
 ---
 title: "Content Placeholder"
-_build:
-  render: never
-  list: never
-  publishResources: false
+date: 2022-12-14T03:35:19-08:00
+draft: false
 ---
 
 ## ⚓

@@ -1,15 +1,15 @@
 baseURL = 'https://ovirgo.com/'
-languageCode = 'zh-cn'
-title = 'Virgo'
+languageCode = 'en'
+title = 'Writters Club'
 
 theme = 'virgo'
-hasCJKLanguage = true
+hasCJKLanguage = false
 summaryLength = 80    # default 70
 paginate = 24         # better 4 * 3 * times
 enableGitInfo = true
 
 [params]
-    author = '一杯玺茶xt'
+    author = 'Eyoel'
 
     # active fadeIn animate when load page
     hasActiveAnimate = true      
@@ -31,9 +31,9 @@ enableGitInfo = true
     hasFoldAllCodeBlocks = false
 
     # active english view, default chinese
-    en = false
+    en = true
 
-    slogan = 'Life is just a joker.'        # your site slogan below title
+    slogan = 'Something rediculus for our slogan'        # your site slogan below title
 
     # like the following items that you need create a relative markdown file
     # -----------------------------------
@@ -107,9 +107,9 @@ enableGitInfo = true
         weibo = '6867589681'                # e.g. https://weibo.com/u/6867589681
         wechat = 'imgs/bg/wechat.jpg'       # Wechat QR, choose your path
         email = 'loveminimal@outlook.com'
-        github = 'loveminimal'              # e.g. https://github.com/loveminimal
+        github = 'eyoelmeles'              # e.g. https://github.com/loveminimal
         bilibili = '11608450'               # e.g. https://space.bilibili.com/11608450
-        # twitter = 'loveminimal'             # e.g. https://twitter.com/loveminimal
+        # twitter = 'joelmcmeles'             # e.g. https://twitter.com/loveminimal
         # facebook = 'loveminimal'            # e.g. https://facebook.com/loveminimal
         # youtube = 'loveminimal'             # e.g. https://youtube.com/user/loveminimal
         color = '#696969'                   # icon color of contact #5d2f86
